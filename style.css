@@ -1,0 +1,41 @@
+
+
+canvas{
+    width: 400px;
+    height: 400px;
+    border: solid red 3px;
+}
+
+svg{
+    border: solid #000 3px;
+    height: 400px;
+    width: 400px;
+}
+
+#oreja-iz{
+    transform: rotate(30deg);
+}
+
+#oreja-de{
+    transform: rotate(-10deg);
+}
+
+#ojera-iz{
+    transform: rotate(10deg);
+}
+
+#ojera-de{
+    transform: rotate(-7deg);
+}
+
+#cachete-iz{
+    transform: rotate(17deg);
+}
+
+#cachete-de{
+    transform: rotate(-17deg);
+}
+
+#nariz{
+    transform: rotate(-2deg);
+}
